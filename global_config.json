@@ -13,6 +13,16 @@
             "Congrats\nYou win MINOR JACKPOT!!",
             "Congrats\nYou win MAJOR JACKPOT!!! BIG PRICE!"
         ],
+        "reward_label" : [
+            "",
+            "",
+            "1",
+            "1K",
+            "1M",
+            "",
+            "",
+            ""
+        ],
         "reward_logo" : [
             "https://firebasestorage.googleapis.com/v0/b/challengedacofficial.appspot.com/o/cheering.png?alt=media",
             "https://firebasestorage.googleapis.com/v0/b/challengedacofficial.appspot.com/o/ticket.png?alt=media",
