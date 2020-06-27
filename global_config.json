@@ -1,0 +1,30 @@
+{
+    "version_identification": "beta",
+    "version_name": "1.6.0",
+    "version_preview_declared_rule": "all",
+    "reward_config": {
+        "reward_text" : [
+            "BETTER LUCK NEXT TIME",
+            "Congrats\nYou win a ticket",
+            "Congrats\nYou win 1 CHL",
+            "Congrats\nYou win 1,000 CHL",
+            "Congrats\nYou win 1,000,000 CHL",
+            "Congrats\nYou win MINI JACKPOT!",
+            "Congrats\nYou win MINOR JACKPOT!!",
+            "Congrats\nYou win MAJOR JACKPOT!!! BIG PRICE!"
+        ],
+        "reward_logo" : [
+            "https://firebasestorage.googleapis.com/v0/b/challengedacofficial.appspot.com/o/cheering.png?alt=media",
+            "https://firebasestorage.googleapis.com/v0/b/challengedacofficial.appspot.com/o/ticket.png?alt=media",
+            "https://firebasestorage.googleapis.com/v0/b/challengedacofficial.appspot.com/o/chl-small-01.png?alt=media",
+            "https://firebasestorage.googleapis.com/v0/b/challengedacofficial.appspot.com/o/chl-medium-01.png?alt=media",
+            "https://firebasestorage.googleapis.com/v0/b/challengedacofficial.appspot.com/o/chl-big-01.png?alt=media",
+            "https://firebasestorage.googleapis.com/v0/b/challengedacofficial.appspot.com/o/jackpot-mini-xxxhdpi.png?alt=media",
+            "https://firebasestorage.googleapis.com/v0/b/challengedacofficial.appspot.com/o/jackpot-minor-xxxhdpi.png?alt=media",
+            "https://firebasestorage.googleapis.com/v0/b/challengedacofficial.appspot.com/o/jackpot-major-xxxhdpi.png?alt=media"
+        ]
+    },
+    "maintaining_versions":[
+        "1.6.0"
+    ]
+}
