@@ -1,5 +1,5 @@
 {
-    "version_identification": "beta",
+    "version_identification": "public",
     "version_name": "1.6.0",
     "version_preview_declared_rule": "all",
     "reward_config": {
@@ -35,6 +35,6 @@
         ]
     },
     "maintaining_versions":[
-        
+
     ]
 }
