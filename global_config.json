@@ -1,7 +1,7 @@
 {
     "version_identification_ios": "beta",
     "version_identification_android": "beta",
-    "version_name": "1.6.0",
+    "version_name": "1.6.0-hotfix",
     "version_preview_declared_rule": "all",
     "reward_config": {
         "reward_text" : [
@@ -36,6 +36,6 @@
         ]
     },
     "maintaining_versions":[
-
+        "1.6.0"
     ]
 }
