@@ -37,6 +37,9 @@
     },
     "maintaining_versions":[
         "1.6.1-hotfix",
+        "1.6.0-hotfix",
+        "1.6.1-hotfix-ios",
+        "1.6.0-hotfix-ios",
         "1.6.1",
         "1.6.0"
     ]
