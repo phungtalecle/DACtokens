@@ -1,8 +1,8 @@
 {
-    "version_identification_ios": "beta",
-    "version_identification_android": "beta",
-    "version_name": "1.6.2",
-    "version_preview_declared_rule": "all",
+    "version_identification_ios": "public",
+    "version_identification_android": "public",
+    "version_name": "1.0.0",
+    "version_preview_declared_rule": "single",
     "reward_config": {
         "reward_text" : [
             "BETTER LUCK NEXT TIME",
@@ -36,11 +36,5 @@
         ]
     },
     "maintaining_versions":[
-        "1.6.1-hotfix",
-        "1.6.0-hotfix",
-        "1.6.1-hotfix-ios",
-        "1.6.0-hotfix-ios",
-        "1.6.1",
-        "1.6.0"
     ]
 }
