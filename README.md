@@ -9,3 +9,4 @@
 | EETH          | bitpietokens  |
 | SENSE         | sensegenesis  |
 | DAPP          | dappservices  |
+| KANDA         | telokandaone  |
