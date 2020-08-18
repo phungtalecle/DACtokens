@@ -25,6 +25,17 @@
             "",
             ""
         ],
+        "reward_description": [
+        "Description",
+        "Description",
+        "Description",
+        "Description",
+         "Description",
+         "Description",
+         "Description",
+         "Description"
+        ]
+        ,
         "reward_logo" : [
             "https://firebasestorage.googleapis.com/v0/b/challengedacofficial.appspot.com/o/cheering.png?alt=media",
             "https://firebasestorage.googleapis.com/v0/b/challengedacofficial.appspot.com/o/ticket.png?alt=media",
