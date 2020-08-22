@@ -26,14 +26,14 @@
             ""
         ],
         "reward_description": [
-        "BLANK: Better luck next time!",
-        "TICKET: Get one spin ticket",
-        "1 CHL: Win 1 CHL",
-        "1000 CHL: Win 1000 CHL",
-         "1,000,000 CHL: Win 1,000,000 CHL",
-         "JACKPOT-MINI: Win 10% of the Reward Pool!",
-         "JACKPOT-MINOR: Win 30% of the Reward Pool!",
-         "JACKPOT-MAJOR: Win 60% of the Reward Pool!"
+        "",
+        "",
+        "1 CHL",
+        "1,000 CHL",
+         "1,000,000 CHL",
+         "10% of the Reward Pool",
+         "30% of the Reward Pool",
+         "60% of the Reward Pool"
         ]
         ,
         "reward_logo" : [
