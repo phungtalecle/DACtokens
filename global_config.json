@@ -34,8 +34,11 @@
          "10% of the Reward Pool",
          "30% of the Reward Pool",
          "60% of the Reward Pool"
-        ]
-        ,
+        ],
+        "reward_pool_fund": {
+            "message": "* Note: create new challenge will charge you 5 CHL, 90% CHL will return to you once you cancel the challenge, 10% will go to reward pool",
+            "display": true
+        },
         "reward_logo" : [
             "https://firebasestorage.googleapis.com/v0/b/challengedacofficial.appspot.com/o/cheering.png?alt=media",
             "https://firebasestorage.googleapis.com/v0/b/challengedacofficial.appspot.com/o/ticket.png?alt=media",
