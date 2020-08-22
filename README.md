@@ -10,3 +10,4 @@
 | SENSE         | sensegenesis  |
 | DAPP          | dappservices  |
 | KANDA         | telokandaone  |
+| VIG           | vig111111111  |
