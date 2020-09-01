@@ -11,3 +11,4 @@
 | DAPP          | dappservices  |
 | KANDA         | telokandaone  |
 | VIG           | vig111111111  |
+| PUML          | pumlhealthio  |
