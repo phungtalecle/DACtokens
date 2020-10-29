@@ -1,7 +1,7 @@
 {
-    "version_identification_ios": "beta",
+    "version_identification_ios": "public",
     "version_identification_android": "public",
-    "version_name": "1.6.4-ios",
+    "version_name": "1.0",
     "version_preview_declared_rule": "single",
     "share_challenge_text": "Check this awesome challenge now!\n$description\n\nSend friend request to account and join the challenge!\n\nAccount: $accountName\nUrl: https://web.challengedapp.io/challenge/$id",
     "reward_config": {
